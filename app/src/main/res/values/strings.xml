@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TrackMe2</string>
+    <string name="add_geofences">Add Geofences</string>
+    <string name="geofences_added">Geofences added</string>
+</resources>
